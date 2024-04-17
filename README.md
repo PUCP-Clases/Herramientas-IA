@@ -1,6 +1,6 @@
-# Curso Nivelador IA
+# Introducción IA
 
-> Repositorio para el curso nivelador de IA
+> Repositorio para el curso Introducción IA
 
 ## Introducción
 
